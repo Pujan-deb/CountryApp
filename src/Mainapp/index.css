@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    text-decoration: none;
+    outline: none;
+    font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 1rem 0;
+}
+
+#maindiv {
+    background-color: #2a2a39;
+}
+
+#maindiv:hover {
+    transform: scale(1.05);
+    transition: 1s;
+}
+
+/* input{
+    padding:0.6rem;
+    border-radius: 0.6rem;
+    width: 20rem;
+
+} */
