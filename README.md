@@ -1,6 +1,6 @@
 # React + Vite
 
-<h3>This is a simple react projec.Here you cna search for coutries.Also you will see the information.</h3>
+<h3>This is a simple react projec.Here you can search for coutries.Also you will see the information.</h3>
 <h2>To run this use <br/> npm install and npm run dev</h2>
 <h1>Happy Coding.</h1>
 Currently, two official plugins are available:
